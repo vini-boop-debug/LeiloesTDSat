@@ -3,6 +3,7 @@ Leilões TDSat
 -Sobre o projeto
 
 O Leilões TDSat é um sistema informatizado desenvolvido para uma casa de leilões, com o objetivo de gerenciar os produtos disponíveis para venda em leilão. O sistema permite o cadastro, a consulta e o controle de status dos itens leiloados (por exemplo, se um produto está "À Venda" ou "Vendido"), além do registro do valor de cada item.
+
 O projeto foi desenvolvido como parte das atividades práticas de versionamento de código, aplicando o Git e o GitHub como ferramentas de controle de versão e colaboração.
 
 -Tecnologias utilizadas
