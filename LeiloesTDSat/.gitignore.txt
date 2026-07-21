@@ -1,0 +1,12 @@
+# NetBeans
+/build/
+/nbproject/private/
+/.netbeans_automatic_build
+.netbeans_update_resources
+
+# Java compilado
+*.class
+
+# Arquivos temporários
+*.tmp
+*.log
